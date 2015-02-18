@@ -9,7 +9,7 @@ This plugin supports Android.
 
 ### Installation ###
 
-Install our module through the marketplace: https://marketplace.appcelerator.com/listing?q=Plot%20–%20Location%20Based%20Notifications
+Our module is available in our dashboard: https://admin.plotprojects.com
 
 ### Android Beacon Library ###
 
@@ -22,6 +22,8 @@ Library source: https://github.com/AltBeacon/android-beacon-library/
 
 ### More information ###
 Website: http://www.plotprojects.com/
+
+Documentation: http://www.plotprojects.com/support
 
 Technical support: https://groups.google.com/forum/#!forum/plot-users
 
